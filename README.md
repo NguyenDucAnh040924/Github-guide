@@ -1,6 +1,6 @@
 # Github-guide
 
-# Cách chỉ lấy 1 Folder trong 1 dự án lớn
+## Cách chỉ lấy 1 Folder trong 1 dự án lớn
 
 Cách 1: 
 git clone --no-checkout url (link)
