@@ -30,7 +30,8 @@ fatal: unable to access 'https://github.com/example_name_1/example_s.git/': The 
 example_name_1 ở tài khoản 1
 example_name_2 ở tài khoản 2
 
-Steps: (in window)
++ Steps: (in window)
+
 B1. Xóa thông tin GitHub khỏi Credential Manager (Windows)
 Mở Control Panel → Credential Manager.
 Chọn Windows Credentials hoặc Generic Credentials.
