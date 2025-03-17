@@ -2,7 +2,7 @@
 
 ## Cách chỉ lấy 1 Folder trong 1 dự án lớn
 
-Cách 1: 
+<ins>Cách 1:</ins> 
 git clone --no-checkout url (link)
 cd python_lab
 git sparse-checkout init --cone
@@ -15,7 +15,7 @@ Chỉ lấy thư mục demoSQLInjection.
 Giữ nguyên lịch sử commit của thư mục đó.
 
 
-Cách 2:
+<ins>Cách 2:</ins>
 svn checkout url (link) + folder muốn tải --depth infinity
 
 Lợi ích: Chỉ tải thư mục demoSQLInjection, không cần clone toàn bộ repo.
@@ -30,7 +30,7 @@ fatal: unable to access 'https://github.com/example_name_1/example_s.git/': The 
 + example_name_1 ở tài khoản 1
 + example_name_2 ở tài khoản 2
 
-+ Steps: (in window)
++ Steps: <ins>window</ins>
 
 B1. Xóa thông tin GitHub khỏi Credential Manager (Windows)
 Mở Control Panel → Credential Manager.
