@@ -27,8 +27,8 @@ remote: Permission to example_name_1/example_s.git denied to example_name_2.
 fatal: unable to access 'https://github.com/example_name_1/example_s.git/': The requested URL returned error: 403
 "
 
-example_name_1 ở tài khoản 1
-example_name_2 ở tài khoản 2
++ example_name_1 ở tài khoản 1
++ example_name_2 ở tài khoản 2
 
 + Steps: (in window)
 
