@@ -32,12 +32,12 @@ fatal: unable to access 'https://github.com/example_name_1/example_s.git/': The 
 
 + Steps: <ins>window</ins>
 
-B1. Xóa thông tin GitHub khỏi Credential Manager (Windows)
-Mở Control Panel → Credential Manager.
-Chọn Windows Credentials hoặc Generic Credentials.
-Tìm github.com, nhấn Remove để xóa thông tin cũ.
+B1. Xóa thông tin GitHub khỏi Credential Manager (Windows)</br>
+Mở Control Panel → Credential Manager.</br>
+Chọn Windows Credentials hoặc Generic Credentials.</br>
+Tìm github.com, nhấn Remove để xóa thông tin cũ.</br>
 
-B2. Xác thực lại khi push code Sau khi xóa, thử git push lại. Nếu Git yêu cầu đăng nhập, hãy nhập:
-Username: <user_name> (Tài khoản mà bạn muốn dùng)
+B2. Xác thực lại khi push code Sau khi xóa, thử git push lại. Nếu Git yêu cầu đăng nhập, hãy nhập:</br>
+Username: <user_name> (Tài khoản mà bạn muốn dùng)</br>
 Password: Personal Access Token (PAT) (không phải mật khẩu GitHub).
 
