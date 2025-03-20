@@ -2,12 +2,12 @@
 
 ## Cách chỉ lấy 1 Folder trong 1 dự án lớn
 
-<ins>Cách 1:</ins> 
-git clone --no-checkout url (link)
-cd python_lab
-git sparse-checkout init --cone
-git sparse-checkout set demoSQLInjection
-git checkout main
+<ins>Cách 1:</ins></br>
+git clone --no-checkout url (link)</br>
+cd python_lab</br>
+git sparse-checkout init --cone</br>
+git sparse-checkout set demoSQLInjection</br>
+git checkout main</br>
 
 Lợi ích:
 
