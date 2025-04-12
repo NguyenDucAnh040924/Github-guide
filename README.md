@@ -37,7 +37,17 @@ Mở Control Panel → Credential Manager.</br>
 Chọn Windows Credentials hoặc Generic Credentials.</br>
 Tìm github.com, nhấn Remove để xóa thông tin cũ.</br>
 
+
 B2. Xác thực lại khi push code Sau khi xóa, thử git push lại. Nếu Git yêu cầu đăng nhập, hãy nhập:</br>
 Username: <user_name> (Tài khoản mà bạn muốn dùng)</br>
 Password: Personal Access Token (PAT) (không phải mật khẩu GitHub).
+
+
+## Kết nối đến khu vực lưu trữ
+git remote add origin "url"
+
+<ins>vd:</ins> git remote add origin https://github.com/<your_user_name>/example.git
+
+
+
 
