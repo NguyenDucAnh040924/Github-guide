@@ -43,10 +43,11 @@ Username: <user_name> (Tài khoản mà bạn muốn dùng)</br>
 Password: Personal Access Token (PAT) (không phải mật khẩu GitHub).
 
 
-## Kết nối đến khu vực lưu trữ
-git remote add origin "url"
+## <ins>note:</ins>
+git branch -M main</br>
+git push -u origin main</br>
 
-<ins>vd:</ins> git remote add origin https://github.com/<your_user_name>/example.git
+
 
 
 
