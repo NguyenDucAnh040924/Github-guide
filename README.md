@@ -45,6 +45,7 @@ Password: Personal Access Token (PAT) (không phải mật khẩu GitHub).
 
 ## <ins>note:</ins>
 git branch -M main</br>
+git pull origin main --rebase</br>
 git push -u origin main</br>
 
 
